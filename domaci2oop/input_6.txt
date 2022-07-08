@@ -1,0 +1,6 @@
+SET S 0
+SET A 5
+GOTO 2
+ADD S S A
+SET A 6
+SET S A

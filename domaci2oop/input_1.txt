@@ -1,0 +1,4 @@
+SET A 5
+SET B -300
+SET C 5
+GOTO 0
